@@ -1,2 +1,2 @@
 # typora
-This file use for uploading picture of my learning notes.
+This file use for uploading pictures and others of my learning notes.
